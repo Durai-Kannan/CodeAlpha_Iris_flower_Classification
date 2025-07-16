@@ -25,7 +25,7 @@ This project is a web-based application for classifying Iris flower species usin
 
 ## 📊 Dataset
 - **Dataset Name**: Iris Flower Dataset
-- **Source**: [https://github.com/Durai-Kannan/CodeAlpha_Iris_flower_Classification/blob/main/iris_model.pkl]
+- **Source**: https://github.com/Durai-Kannan/CodeAlpha_Iris_flower_Classification/blob/main/iris_model.pkl
 - **Description**: The dataset consists of 150 samples from three species of Iris flowers:
   - Iris-setosa
   - Iris-versicolor
