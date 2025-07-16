@@ -68,4 +68,6 @@ This project is a web-based application for classifying Iris flower species usin
 - Python 3.8 or higher
 - Required Python libraries:
   ```bash
+  git clone https://github.com/Durai-Kannan/CodeAlpha_Iris_flower_Classification.git
+  cd CodeAlpha_Iris_flower_Classification
   pip install -r requirements.txt
